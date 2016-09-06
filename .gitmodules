@@ -1,0 +1,6 @@
+[submodule "pcl"]
+	path = pcl
+	url = git@github.com:imatge-upc/pcl.git
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/opencv/opencv.git
