@@ -1,0 +1,9 @@
+.git
+cpp
+cpp-build
+pcl
+pcl-build
+opencv
+opencv-build
+generators
+autorun
