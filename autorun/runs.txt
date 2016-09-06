@@ -1,0 +1,3 @@
+./edgeLabelling -i interm.pcd -K 5 --line_thresh 0.0001 --neigh_thresh 0.01 --compare_line_thresh 0.05 --filter_by_size 20 -x 1
+./edgeLabelling -i /opt/Sources/PhD/python-utils/generators/test.ply -K 10 --line_thresh 1 --neigh_thresh 0.04 --compare_line_thresh 0 --filter_by_size 1 -x 1
+
