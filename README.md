@@ -3,7 +3,7 @@ This project contains the tools necessary for testing the contour-based multimod
 
 # Set-up
 The code provided contains a Dockefile containing all the necessay dependencies to compile the project. 
-Scripts `build.sh` and `run.sh` are also provided to buld the image and run a container with the specified images. 
+Scripts `build.sh` and `run.sh` are also provided to build the image and run a container with the specified images. 
 Any environment variable stating with `PHD_*` will be autmatically added to the container. Please configure your 
 datasets and results folder in the `run.sh` script.
 
